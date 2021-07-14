@@ -1,0 +1,15 @@
+
+> Key not matched
+Number of comparisons : 5
+
+> Key found at index : 2
+Number of comparisons : 3
+
+> Key found at index : 0
+Number of comparisons : 1
+
+> Key not matched
+Number of comparisons : 4
+
+> Key found at index : 2
+Number of comparisons : 3
